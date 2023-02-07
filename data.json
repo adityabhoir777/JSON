@@ -1,13 +1,13 @@
 {
     "userName": "ben",
-    "familyName": "tenyson",
-    "strength": "omnitrix",
-    "age": 10,
+    family name: "tenyson",
+    "strength": 'omnitrix',
+    age: 10,
     "aliens": [
         "ripjaws",
         "humangasaur",
-        "AlienX",
-        "upgrade",
+        'AlienX',
+        upgrade,
         "stingfly",
         "ghostfreik"
     ]
